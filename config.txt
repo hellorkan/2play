@@ -1,6 +1,6 @@
-owner=385440338321473546
+owner=460606140666085378
 prefix=2
-game=2play | Lamyem
+game=
 stayinchannel=true
 songinstatus=false
-token=NTQxMDQzMjY3NzEwNzQ2NjM3.DzZtUw.r4hcGC0LXfPFCVsxRcDBZUkO6t4
+token=NTUzOTkyMDI5MzE1NjYxODU1.D2WK0g.JPtR7Z1GqkF-BTRi1dsdrEUFMn8
