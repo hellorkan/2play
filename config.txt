@@ -1,6 +1,6 @@
 owner=460606140666085378
 prefix=2
-game=Perks Music.
+game=MAK Music.
 stayinchannel=true
 songinstatus=false
-token=NTUzOTkyMDI5MzE1NjYxODU1.D2WK0g.JPtR7Z1GqkF-BTRi1dsdrEUFMn8
+token=NDg2NTg4MzU3MzIxOTQ5MTk0.D2wsEg.qnBnp_UWl0oe2h1I0oxDOFF88d0
